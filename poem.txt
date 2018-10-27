@@ -6,5 +6,6 @@ red
 green 
 blue
 yellow
+orange
 
 these are few colors of love
